@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Joe Alamo-Keilty
 tagline:          'DevOps & Security Engineer'
-description:      'todo'
+description:      'DevOps & Security Engineer'
 url:              https://joealamo.co.uk
 #baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
@@ -13,6 +13,8 @@ url:              https://joealamo.co.uk
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
+disqus:
+  shortname: joealamo
 
 remote_theme: fongandrew/hydeout
 author:
