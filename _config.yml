@@ -21,6 +21,11 @@ author:
   name:           'Joe Alamo-Keilty'
   url:            www.linkedin.com/in/joealamokeilty
 
+# Social Media Usernames
+github_username: JoeAlamo
+linkedin_username: joealamokeilty
+#twitter_username: todo
+
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
