@@ -1,14 +1,25 @@
 <nav id="sidebar-icon-links">
-  {% if site.hydeout.repo %}
+  {% if site.github_username %}
     <a id="github-link"
-       class="icon" title="Github Project" aria-label="Github Project"
-       href="{{ site.hydeout.repo }}">
+       class="icon" title="Github" aria-label="Github"
+       href="https://github.com/{{ site.github_username }}">
       {% include svg/github.svg %}
     </a>
-    <a id="github-download-link"
-       class="icon" title="Download" aria-label="Download"
-       href="{{ site.hydeout.repo }}/archive/v{{ site.hydeout.version }}.zip">
-      {% include svg/download.svg %}
+  {% endif %}
+  
+  {% if site.linkedin_username %}
+    <a id="linkedin-link"
+       class="icon" title="LinkedIn" aria-label="LinkedIn"
+       href="https://linkedin.com/in/{{ site.linkedin_username }}">
+      {% include svg/linkedin.svg %}
+    </a>
+  {% endif %}
+  
+  {% if site.twitter_username %}
+    <a id="twitter-link"
+       class="icon" title="Twitter" aria-label="Twitter"
+       href="https://twitter.com/{{ site.twitter_username }}">
+      {% include svg/twitter.svg %}
     </a>
   {% endif %}
 
