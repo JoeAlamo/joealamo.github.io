@@ -16,7 +16,7 @@ url:              https://joealamo.co.uk
 disqus:
   shortname: joealamo
 
-remote_theme: fongandrew/hydeout
+remote_theme: fongandrew/hydeout@76f7bc6c5ec63b3ce6146b7ca1e37ca69a27c8ef
 author:
   name:           'Joe Alamo-Keilty'
   url:            www.linkedin.com/in/joealamokeilty
