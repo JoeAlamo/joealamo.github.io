@@ -212,7 +212,6 @@ body {
 
 #sidebar a {
   color: $sidebar-link-color;
-  text-transform: uppercase;
 
   svg {
     fill: $sidebar-icon-color;
@@ -247,6 +246,7 @@ body {
 
 #sidebar-nav-links {
   flex-flow: column nowrap;
+  text-transform: uppercase;
 }
 
 #sidebar-icon-links {
