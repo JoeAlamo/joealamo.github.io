@@ -45,6 +45,17 @@ h2.post-title, h2.page-title {
   color: $blue;
 }
 
+// Posts page custom styling
+.posts a, .posts a:visited {
+  color: $heading-color;
+  line-height: 1;
+}
+
+.posts .post-date {
+  color: $blue; 
+}
+// End posts page custom styling
+
 .post-tags a {
   font-size: 0.8em;
   margin-right: 0.5rem;
