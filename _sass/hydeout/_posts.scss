@@ -49,6 +49,7 @@ h2.post-title, h2.page-title {
 .posts a, .posts a:visited {
   color: $heading-color;
   line-height: 1;
+  text-transform: uppercase;
 }
 
 .posts .post-date {
