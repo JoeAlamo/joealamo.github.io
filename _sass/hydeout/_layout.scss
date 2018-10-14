@@ -27,8 +27,8 @@ body {
   background-color: $sidebar-bg-color;
   background-image: linear-gradient(
     to bottom,
-    lighten($sidebar-bg-color, 7%),
-    darken($sidebar-bg-color, 7%));
+    $sidebar-bg-color-light,
+    $sidebar-bg-color);
   display: flex;
   flex-direction: column;
   min-width: 100vw;
@@ -40,8 +40,8 @@ body {
   padding: $section-spacing;
 
   .site-title {
-    font-family: "Abril Fatface", serif;
-    font-weight: normal;
+    font-family: "Roboto", "Ubuntu", "Droid Sans", sans-serif;
+    font-weight: bold;
     font-size: $large-font-size;
     margin-top: 0;
     margin-bottom: $heading-spacing;
@@ -212,6 +212,7 @@ body {
 
 #sidebar a {
   color: $sidebar-link-color;
+  text-transform: uppercase;
 
   svg {
     fill: $sidebar-icon-color;
@@ -236,6 +237,9 @@ body {
 #sidebar .site-title {
   color: $sidebar-title-color;
   a { color: inherit; }
+}
+#sidebar p.lead {
+  color: $blue;
 }
 #sidebar nav {
   display: flex;
