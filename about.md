@@ -12,19 +12,23 @@ The best type of process is one completely automated by code. This is best embod
 
 ## Consulting
 
-When possible, I enjoy and am open to provide consulting to add value to companies. In the past, I've helped [Wriggle Security](https://www.wrigglesecurity.co.uk/) launch their cyber security business in the North East of England by establishing their business offerings, providing security testing training to their employees and conducting penetration tests for their clients.
+I've helped [Wriggle Security](https://www.wrigglesecurity.co.uk/) launch their cyber security business in the North East of England. I provided security testing training to their employees and conducted several audits for their clients.
 
 ## Previous Work
 
-In the past I've worked at Koios Technology to lead & architect the development of [Ocucon](https://ocucon.com/), a cloud-based innovative CCTV storage & access solution. 
+At Koios Technology I lead & architected the development of [Ocucon](https://ocucon.com/), the worlds first cloud-based Video-Surveillance-as-a-Service solution. 
 
 ## University 
 
-I graduated with first class honours in Computer Security at Northumbria University, winning the Accenture Prize for best student on the course. My dissertation was the development of a multi-factor authentication system using a fingerprint biometric device. You can find the source code on my [GitHub](https://github.com/JoeAlamo), [here](https://github.com/JoeAlamo/BiometricAuthSite) and [here](https://github.com/JoeAlamo/Arduino).
+I graduated with first class honours in Computer Security at Northumbria University, winning the Accenture Prize for best student on the course. 
+
+My dissertation was the development of a multi-factor authentication system using a fingerprint biometric device. You can find the source code on my [GitHub](https://github.com/JoeAlamo), [here](https://github.com/JoeAlamo/BiometricAuthSite) and [here](https://github.com/JoeAlamo/Arduino).
+
+My final solution performed a cryptographic authentication protocol over HTTP using less than 2 kilobytes of RAM!
 
 ## Interests
 
-I'm a big fan of hip-hop, discovering other music and collecting records whenever I'm travelling.
+I'm a big fan of hip-hop, discovering music and collecting records whenever I'm travelling.
 
 For the past couple of years I've been getting into fitness, weight training and healthy cooking.
 
