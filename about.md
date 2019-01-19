@@ -6,7 +6,7 @@ sidebar_link: true
 
 I'm a DevOps Engineer at [hedgehog lab](https://www.hedgehoglab.com/) building cloud-based systems, helping the team solve interesting engineering problems and ensuring the smooth delivery of projects for our clients.
 
-I've transformed the way we approach infrastructure, adopting an infrastructure-as-code approach where we leverage CloudFormation in conjunction with Python & Bash scripts to reliably provision our cloud environments, using the same approaches we apply to code across the organisation.
+At hedgehog lab the way we approach infrastructure has transformed, adopting an infrastructure-as-code approach where we leverage CloudFormation in conjunction with Python & Bash scripts to reliably provision our cloud environments, using the same approaches we apply to code across the organisation.
 
 The best type of process is one completely automated by code. This is best embodied by the Docker-based CICD systems for the 4 platforms we use (Android, iOS, Python & React) and continue to improve upon.
 
@@ -16,7 +16,7 @@ I've helped [Wriggle Security](https://www.wrigglesecurity.co.uk/) launch their 
 
 ## Previous Work
 
-At Koios Technology I lead & architected the development of [Ocucon](https://ocucon.com/), the worlds first cloud-based Video-Surveillance-as-a-Service solution. 
+At Koios Technology I led & architected the development of [Ocucon](https://ocucon.com/), the worlds first cloud-based Video-Surveillance-as-a-Service solution. 
 
 ## University 
 
