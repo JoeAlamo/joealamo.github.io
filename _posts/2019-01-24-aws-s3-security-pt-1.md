@@ -2,6 +2,7 @@
 layout: post
 title: "AWS S3 security best practices - Part 1"
 date: 2019-01-24
+excerpt_separator:  <!--more-->
 tags:
  - AWS
  - S3
