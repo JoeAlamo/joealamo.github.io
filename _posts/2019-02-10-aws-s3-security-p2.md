@@ -11,6 +11,8 @@ tags:
  - architecture
 ---
 
+![AWS S3 Access Architecture](https://www.hedgehoglab.com/hs-fs/hubfs/AWS_diagram3.jpg?width=450&name=AWS_diagram3.jpg)
+
 Following up from the previous post describing security best practices when setting up S3 buckets, this post tackles the next steps when you are wanting to provide your applications access to resources in your buckets.
 
 There is a comparison of 4 architectural approaches for tackling this problem, evaluating the pros and cons when it comes to security, speed and complexity.
