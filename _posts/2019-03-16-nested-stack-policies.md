@@ -87,12 +87,13 @@ If you follow AWS' best practices, by creating a database component in a nested 
 
 ```bash
 function protect_nested_stacks() {
-	local parent_stack=$1 stack_policy_file=$2
+    local parent_stack=$1 stack_policy_file=$2
     local nested_stacks=$(aws cloudformation list-stack-resources \
         --stack-name ${parent_stack} \
         --query "StackResourceSummaries[?ResourceType=='AWS::CloudFormation::Stack'].[PhysicalResourceId]" \
         --output text
     )
+    
     for stack in ${nested_stacks}; do
         aws cloudformation set-stack-policy --stack-name ${stack} --stack-policy-body file://${stack_policy_file}
         protect_nested_stacks ${stack} ${stack_policy_file}
