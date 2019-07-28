@@ -11,7 +11,7 @@ title: >-
   Faster CI builds when using Docker-in-Docker on GitLab
 ---
 
-![Docker-in-Docker (DIND)](https://i.imgur.com/LvEksYk.png)
+![Docker-in-Docker (DIND)](https://i.imgur.com/zFBWGQR.png)
 
 Docker-in-Docker (DinD) is the [recommended way to build and test Docker images in GitLab](https://docs.gitlab.com/ee/ci/docker/using_docker_build.html#use-docker-in-docker-executor). 
 
