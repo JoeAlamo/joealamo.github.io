@@ -4,19 +4,21 @@ title: About
 sidebar_link: true
 ---
 
-I'm a DevOps Engineer at [hedgehog lab](https://www.hedgehoglab.com/) building cloud-based systems, helping the team solve interesting engineering problems and ensuring the smooth delivery of projects for our clients.
+I'm a Senior DevOps Engineer at [One Utility Bill](https://oneutilitybill.co) helping the team to make everything utility bills related hassle-free for our customers.
 
-At hedgehog lab the way we approach infrastructure has transformed, adopting an infrastructure-as-code approach where we leverage CloudFormation in conjunction with Python & Bash scripts to reliably provision our cloud environments, using the same approaches we apply to code across the organisation.
+We're heavy on automation, partner-to-partner APIs and seamless user-focused web experiences.
 
-The best type of process is one completely automated by code. This is best embodied by the Docker-based CICD systems for the 4 platforms we use (Android, iOS, Python & React) and continue to improve upon.
-
-## Consulting
-
-I've helped [Wriggle Security](https://www.wrigglesecurity.co.uk/) launch their cyber security business in the North East of England. I provided security testing training to their employees and conducted several audits for their clients.
+At this fast-moving & quickly growing startup I work closely with the CTO & Head of Development to ensure our development capabilities are industry leading and that we are setup for continued growth and success.
 
 ## Previous Work
 
+At hedgehog lab I headed the DevOps transformation for a high-growth global agency working on projects for Deliveroo, GoCity, Kodak, and Clever Clinic. My main focus was our development practices, cloud infrastructure and automated CICD systems.
+
 At Koios Technology I led & architected the development of [Ocucon](https://ocucon.com/), the worlds first cloud-based Video-Surveillance-as-a-Service solution. 
+
+## Consulting
+
+I've helped [Wriggle Security](https://www.wrigglesecurity.co.uk/) launch their cyber security business in the North East of England. I provided security testing training to their employees, conducted several audits for their clients and developed proof-of-concept demos with physical pentesting tools.
 
 ## University 
 
